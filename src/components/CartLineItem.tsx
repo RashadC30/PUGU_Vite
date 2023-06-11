@@ -1,5 +1,5 @@
-import { ChangeEvent, ReactElement, memo } from 'react';
-import { CartItemType, ReducerAction, ReducerActionType } from '../context/CartProvider';
+import { ChangeEvent, ReactElement, memo } from "react";
+import { CartItemType, ReducerAction, ReducerActionType } from "../context/CartProvider";
 
 type PropsType = {
     item: CartItemType,

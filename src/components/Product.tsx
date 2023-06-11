@@ -1,6 +1,6 @@
-import { ProductType } from '../context/ProductsProvider';
-import { ReducerActionType, ReducerAction } from '../context/CartProvider';
-import { ReactElement, memo } from 'react';
+import { ProductType } from "../context/ProductsProvider";
+import { ReducerActionType, ReducerAction } from "../context/CartProvider";
+import { ReactElement, memo } from "react";
 
 
 type PropsType = {
